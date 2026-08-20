@@ -1,0 +1,14 @@
+# Binarios compilados (C/C++)
+labs/hello_threads
+labs/lab1/main
+labs/lab1/main2
+*.o
+*.out
+*.exe
+
+# Archivos temporales de LibreOffice
+.~lock.*#
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
