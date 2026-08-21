@@ -24,9 +24,10 @@ int main(){
     }
 
     cout << "Ingrese la cantidad de threads a usar (2,4,8,16,32): "; cin >> NUM_THREADS;
+    /*
     if (NUM_THREADS < 2 || NUM_THREADS > 32){
         NUM_THREADS = 32;
-    }
+    }*/
 
     int cantidad_numeros = pow(VALOR,exponente);
     vector<double> numeros(cantidad_numeros);
