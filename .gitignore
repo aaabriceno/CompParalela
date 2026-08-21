@@ -18,3 +18,6 @@ __pycache__/
 
 # Paquetes de entrega (duplican archivos ya versionados)
 *.zip
+
+# Capturas e imagenes de evidencia (pueden exponer terminal/ruta local)
+labs/lab1/*.png
