@@ -5,6 +5,7 @@ labs/lab1/main2
 labs/lab2/mainMatriz
 labs/lab2/mainLab2
 labs/lab2/localidadTemporal
+works/tareaModosComunicaciónMPI/ready
 *.o
 *.out
 *.exe
