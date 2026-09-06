@@ -1,0 +1,26 @@
+# Binarios compilados (C/C++)
+labs/hello_threads
+labs/lab1/main
+labs/lab1/main2
+labs/lab2/mainMatriz
+labs/lab2/mainLab2
+labs/lab2/localidadTemporal
+*.o
+*.out
+*.exe
+
+# Documentos de LibreOffice (informes)
+*.odt
+
+# Archivos temporales de LibreOffice
+.~lock.*#
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+
+# Paquetes de entrega (duplican archivos ya versionados)
+*.zip
+
+# Capturas e imagenes de evidencia (pueden exponer terminal/ruta local)
+labs/lab1/*.png
