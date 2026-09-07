@@ -1,0 +1,3 @@
+cluster01 slots=2
+cluster02 slots=2
+cluster03 slots=2

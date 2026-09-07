@@ -6,6 +6,9 @@ labs/lab2/mainMatriz
 labs/lab2/mainLab2
 labs/lab2/localidadTemporal
 works/tareaModosComunicaciónMPI/ready
+labs/lab3/hello_mpi
+labs/lab3/comunicacion_mpi
+labs/lab3/memoria_mpi
 *.o
 *.out
 *.exe
