@@ -1,0 +1,4 @@
+cluster01 slots=4
+cluster02 slots=4
+cluster03 slots=4
+cluster04 slots=4
