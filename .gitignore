@@ -9,6 +9,10 @@ works/tareaModosComunicaciónMPI/ready
 labs/lab3/hello_mpi
 labs/lab3/comunicacion_mpi
 labs/lab3/memoria_mpi
+labs/lab4/mulMatrices/mulMatrizMPI
+labs/lab4/mulMatrices/mulMatrizSecuencial
+labs/lab4/ordenamientoOddEven/ordenamientoMPI
+labs/lab4/ordenamientoOddEven/ordenamientoSecuencial
 *.o
 *.out
 *.exe
